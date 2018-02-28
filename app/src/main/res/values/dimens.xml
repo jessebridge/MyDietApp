@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inspirational_Quote" />
+    <dimen name="quote" />
+    <dimen name="QUOTE1">40sp</dimen>
+</resources>
